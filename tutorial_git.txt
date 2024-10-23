@@ -9,7 +9,7 @@
 	git add .
 	git commit -m "mensagem aleatoria"
 	git push
-
+ 
 **Alterie novos arquivos, como subir as atualizações no git?
 
 1- git add .

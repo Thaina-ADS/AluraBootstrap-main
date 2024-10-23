@@ -8,7 +8,7 @@ img-desktop(xl) d-none
 
 
 MD
-
+ 
 img-mobile(sm) d-none (esconde)
 img-tablet(md) d-block (exibe)
 img-desktop(xl) d-none (esconde)
