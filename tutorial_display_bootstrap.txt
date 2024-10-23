@@ -1,0 +1,43 @@
+SM
+
+img-mobile(sm) d-block (exibe)
+img-tablet(md) d-none (esconde)
+img-desktop(xl) d-none
+
+<div class="d-sm-block d-md-none d-xl-none">
+
+
+MD
+
+img-mobile(sm) d-none (esconde)
+img-tablet(md) d-block (exibe)
+img-desktop(xl) d-none (esconde)
+
+XL
+
+img-mobile(sm) d-none (esconde)
+img-tablet(md) d-none(esconde)
+img-desktop(xl) d-block (exibe)
+
+display:
+	uso no bootstrap:
+	{
+		d-block
+		d-flex
+		d-none
+		row->col
+	}
+
+block (usado para exibir)
+flex (usado para posicionamento de conteúdo)
+grid (basta utilizar o bootstrap [col])
+none (usado para esconder)
+
+
+cores:
+
+text-danger (texto vermelho)
+text-white
+text-dark
+text-warning (amarelo)
+text-success (verde)
